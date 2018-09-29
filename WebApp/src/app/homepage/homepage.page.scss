@@ -1,0 +1,27 @@
+@import '../../theme/variables';
+
+.div-preview {
+  margin: 10% auto;
+  width: 80%;
+  height: 80%;
+
+  background-color: lightgreen; //TODO: replace by image
+}
+
+.div-button {
+  margin: 0px auto;
+  width: 70%;
+}
+
+.button-circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 1px $color-pink solid;
+  background-color: transparent;
+}
+
+.icon-circle {
+  width: 30px;
+  height: 30px;
+}
