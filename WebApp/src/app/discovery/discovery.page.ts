@@ -12,4 +12,7 @@ export class DiscoveryPage implements OnInit {
   ngOnInit() {
   }
 
+  buttonFilterClicked() {
+  }
+
 }
